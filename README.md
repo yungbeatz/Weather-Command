@@ -16,6 +16,9 @@ const weather = require('weather-js');
 `3.)` <p>Getting the informations</p>
 ```js
 weather.find({search:'Alabama', degreeType: "C"}, function(error, result){ // degreeType can also be "F" for Fahrenheit.
+const current = result[0].current
+const location = result[0].location
+        
 console.log(current.observationpoint) //Shows the name of the City
 console.log(current.observationpoint) //Gives a short Description about the weather, example: _Light Rain_
 console.log(current.temperature) //Gives current temperature.
