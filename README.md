@@ -20,7 +20,7 @@ const current = result[0].current
 const location = result[0].location
         
 console.log(current.observationpoint) //Shows the name of the City
-console.log(current.observationpoint) //Gives a short Description about the weather, example: _Light Rain_
+console.log(current.observationpoint) //Gives a short Description about the weather, example: "Light Rain".
 console.log(current.temperature) //Gives current temperature.
 console.log(current.winddisplay) //Gives current wind speed.
 console.log(current.humidity) //Gives a current humidity.
