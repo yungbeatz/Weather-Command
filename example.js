@@ -21,7 +21,7 @@ module.exports = {
         .setDescription("**⛔ You didn't specify a valid location**")
 
         if (result === undefined || result.length === 0) return interaction.reply({embeds: [errEmbed]});
-        if (error) return interaction.channel.send(error)
+        if (error) console.log(error);
         const current = result[0].current
         const location = result[0].location
         
