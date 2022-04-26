@@ -1,5 +1,5 @@
 # Weather Command
-[![Stable Version](https://img.shields.io/npm/v/random-gif-api?color=red&style=plastic)](https://www.npmjs.com/package/random-gif-api)
+![Stable Version](https://img.shields.io/npm/v/weather.js)
 
 <b>Weather Command coded with Discord.js (Version 13)</b>
 
