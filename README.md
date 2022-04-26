@@ -30,5 +30,5 @@ console.log(location.timezone) //Shows the Timezone of the current place.
 ## 👨🏼‍💻 | Example
 <p> Here I am using <code>Slash Commands</code> and displaying the Gif in an <code>Embed</code>:</p>
 
-[Example](https://github.com/yungbeatz/Affection-Commands-D.JS-V13-/blob/main/examples/example1.js)
+[Example](https://github.com/yungbeatz/Weather-Command/blob/main/example.js)
 
