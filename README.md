@@ -22,7 +22,7 @@ console.log(current.temperature) //Gives current temperature.
 console.log(current.winddisplay) //Gives current wind speed.
 console.log(current.humidity) //Gives a current humidity.
 console.log(location.timezone) //Shows the Timezone of the current place.
-
+})
 ```
 ## 👨🏼‍💻 | Example
 <p> Here I am using <code>Slash Commands</code> and displaying the Gif in an <code>Embed</code>:</p>
