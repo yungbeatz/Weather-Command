@@ -23,7 +23,7 @@ console.log(current.observationpoint) //Shows the name of the City
 console.log(current.observationpoint) //Gives a short Description about the weather, example: "Light Rain".
 console.log(current.temperature) //Gives current temperature.
 console.log(current.winddisplay) //Gives current wind speed.
-console.log(current.humidity) //Gives a current humidity.
+console.log(current.humidity) //Gives current humidity.
 console.log(location.timezone) //Shows the Timezone of the current place.
 })
 ```
